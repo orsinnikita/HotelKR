@@ -1,0 +1,37 @@
+c:\users\abdullah fawwaz q\documents\visual studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\ProjectHotel.exe.config
+c:\users\abdullah fawwaz q\documents\visual studio 2015\Projects\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.Properties.Resources.resources
+c:\users\abdullah fawwaz q\documents\visual studio 2015\Projects\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.csproj.GenerateResource.Cache
+c:\users\abdullah fawwaz q\documents\visual studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\ProjectHotel.exe
+c:\users\abdullah fawwaz q\documents\visual studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\ProjectHotel.pdb
+c:\users\abdullah fawwaz q\documents\visual studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\MaterialSkin.dll
+c:\users\abdullah fawwaz q\documents\visual studio 2015\Projects\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.exe
+c:\users\abdullah fawwaz q\documents\visual studio 2015\Projects\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.pdb
+c:\users\abdullah fawwaz q\documents\visual studio 2015\Projects\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.LoginForm.resources
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.Home.resources
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.Admin.resources
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.Technic.resources
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.Fasilitas.resources
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.ReportCustomer.resources
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\FlashControlV71.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Abdullah Fawwaz Q\Documents\Visual Studio 2015\Projects\ProjectHotel\ProjectHotel\bin\Debug\stdole.dll
+D:\Data & Tugas\ProjectHotel\ProjectHotel\bin\Debug\ProjectHotel.exe.config
+D:\Data & Tugas\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.exe
+D:\Data & Tugas\ProjectHotel\ProjectHotel\obj\Debug\ProjectHotel.pdb

@@ -1,0 +1,16 @@
+1#VIP#5#2000000#Not Available#Good#
+2#VIP#4#1900000#Not Available#Good#
+3#VIP#3#1800000#Not Available#Good#
+4#VIP#2#1600000#Not Available#Good#
+5#VIP#1#1500000#Available#Good#
+6#Bussiness#4#1400000#Not Available#Good#
+7#Bussiness#3#1300000#Not Available#Good#
+8#Bussiness#2#1200000#Not Available#Good#
+9#Bussiness#1#1200000#Not Available#Good#
+10#Economy#4#1000000#Not Available#Good#
+11#Economy#3#900000#Available#Cleaned Up#
+12#Economy#2#800000#Not Available#Good#
+13#Economy#1#700000#Available#Good#
+14#Economy#1#500000#Available#Good#
+15#Economy#1#500000#Available#Good#
+16#Economy#1#500000#Available#Good#

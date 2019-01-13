@@ -1,0 +1,6 @@
+A0001#Abdullah Fawwaz Qudamah#09/12/1997#Male#Indonesian Citizens#Jalan Sawi No. 11a Pekayon Pasar Rebo Jakarta Timur 13710#081380976557#afawwaz16@gmail.com#fawwaz#ZmF3d2F6#Active#Receptionist#What is your nickname as a child?#MTIz#
+A0002#Nadia Rifka#14/05/1997#Female#Indonesian Citizens#Depok Jawa Barat#085712345678#nadia@gmail.com#nadia#bmFkaWExMjM=#Active#Hotel Technicians#What is your nickname as a child?#bmFkaWE=#
+A0003#Jasmine Nabila Novel#06/06/2017#Female#Indonesian Citizens#bekasi tambun utara#087887123010#jasminenabila19@gmail.com#jasmine#amFzbWluZTEyMw==#Active#Hotel Technicians#What is your favorite food?#bmFzaWtlYnVsaQ==#
+A0004#Resepsionis#08/06/2017#Female#Indonesian Citizens#Jalan Akses UI Depok Jawa Barat#082295648877#resep@gmail.com#resep#MTIz#Not Active#Receptionist#What is your nickname as a child?#MTIz#
+A0005#Administrator#09/12/1997#Female#Indonesian Citizens#Jalan Nava Hotel Jakarta#02187701122#admin@nava-hotel.com#admin#YWRtaW4=#Active#Administrator#What is your nickname as a child?#YWRtaW4=#
+A0006#nama#13/06/2000#Male#Indonesian Citizens#test#789#juju@jdjd.vom#juju#anVqdQ==#Active#Receptionist#What is your nickname as a child?#ZXc=#

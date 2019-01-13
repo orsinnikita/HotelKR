@@ -1,0 +1,11 @@
+C0001#899787876565#Identity Card Indonesia#Harisyanda#Male#12/06/2000#Citayem#089125142514#harisyanda11@gmail.com#Indonesian Citizens#2#12/06/2017#14/06/2017#16/06/2017#VIP#1#Check In#4000000#A0001#
+C0002#872817283638#Pasport#David Jhon#Male#21/03/1995#Pondok Indah Jakarta#081514198276#jhons22@gmail.com#Foreign Nationals#4#02/07/2017#04/07/2017#07/07/2017#VIP#2#Check In#5700000#A0001#
+C0003#3424256453#Identity Card Indonesia#Deny Triatna#Male#07/06/1994#Bogor#081542341231#dedytri@gmail.com#Indonesian Citizens#1#27/06/2017#29/06/2017#01/07/2017#Bussiness#6#Check In#2800000#A0001#
+C0004#898978786867#Identity Card Indonesia#Hernita Evelia#Female#13/04/1998#Depok#087654565454#hernita17@gmail.com#Indonesian Citizens#3#18/06/2017#19/06/2017#21/06/2017#Bussiness#7#Check In#2600000#A0001#
+C0005#7856645364#Pasport#Stevan James#Male#09/06/1996#Jakarta#081556453423#james@gmail.com#Foreign Nationals#2#23/06/2017#25/06/2017#27/06/2017#Economy#10#Check In#2000000#A0001#
+C0006#77575767564#Pasport#Elisa#Female#23/11/1970#USA#098967564534#Elisa99@gmail.com#Foreign Nationals#4#17/06/2017#18/06/2017#20/06/2017#Economy#11#Check Out#1800000#A0001#
+C0007#7978788657575#Identity Card Indonesia#Yanuar Swastito#Male#15/01/1994#Jakarta#0897867564534#yanwttito@gmail.com#Indonesian Citizens#2#14/06/2017#16/06/2017#17/06/2017#VIP#3#Check In#1800000#A0001#
+C0008#281728186886#Visa#Hamish Daud#Male#30/01/1991#Bekasi#081543431232#hamisdaudo@gmail.com#Foreign Nationals#4#26/06/2017#27/06/2017#28/06/2017#Bussiness#8#Check In#1200000#A0001#
+C0009#6767676775#Identity Card Indonesia#Annisa Rachwalia#Female#26/12/1994#bogor#0897867564534#annisa45@gmail.com#Indonesian Citizens#1#02/07/2017#03/07/2017#05/07/2017#Economy#12#Check In#1600000#A0001#
+C0010#8976764646#Pasport#William Steeve#Male#10/01/1984#Jakarta#08978677866#willi99@gmail.com#Indonesian Citizens#2#01/06/2017#08/07/2017#09/07/2017#Bussiness#9#Check In#1200000#A0001#
+C0011#12321#Driver License Indonesia#skadjas#Male#13/06/2000#sadas#42423#aa@ss.com#Indonesian Citizens#2233#13/06/2017#18/06/2017#19/06/2017#VIP#4#Check In#1600000#A0001#
